@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+form {
+    color: #8B918C;
+    margin: 0 auto;
+    width: 420px;
+}
+form #condiciones a{
+    color: #023859;
+    text-decoration: none;
+}
+form #mes {
+    color: #8B918C;
+    height: 40px;
+    padding-left: 10px;
+    width: 152px;
+    box-sizing: border-box;
+}
+form #olvido_passwd {
+    text-align: center;
+}
+form #olvido_passwd a{
+    color: #023859;
+    text-decoration: none;
+}
+form #regist {
+    background-color: #023859;
+    border-radius: 20px;
+    color: #FFF;
+    margin: 10px 0;
+}
+form #sesion {
+    text-align: center;
+}
+form #sesion a {
+    color: #023859;
+    text-decoration: none;
+}
+form #sexo {
+    margin: 10px 0;
+}
+form .fecha {
+    height: 40px;
+    margin-left: 20px;
+    padding: 0 10px;
+    width: 110px;
+    box-sizing: border-box;
+}
+form .input {
+    height: 40px;
+    margin-bottom: 10px;
+    padding: 0 10px;
+    width: 100%;
+    box-sizing: border-box;
+}
+form .sex {
+    margin-right: 10px;
+}
+header {
+    margin-top: 20px;
+}
+header img {
+    float: left;
+    height: auto;
+    width: 80px;
+}
+header h1 {
+    padding-top: 10px;
+    width: 350px;
+}
+header #titulo {
+    margin: 0 auto 20px auto;
+    text-align: center;
+    width: 400px;
+}
+section #regist {
+    margin: 20px 0;
+    text-align: center;
+}
+#error {
+	text-align: center;
+}
